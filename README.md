@@ -18,5 +18,6 @@ Concu pour fonctionner avec le kit d'aspiration V3
   <img src="images/vuePartDescriptions.png" width="100">
 </p>
 
-Enfin le modele sketchup est : myLami.skp
+[Modèle SketchUp](myLami.skp)
+ 
 
