@@ -7,7 +7,7 @@ Ce travail est une production dérivative réalisée à partir du Lami V2 mis à
 
 ## Vue parts description
 
-![Plan coté de la pièce 01](vuePartDescription.png)
+![Plan coté de la pièce 01](vuePartDescriptions.png)
 
 ## Vue All parts
 
