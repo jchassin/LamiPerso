@@ -5,19 +5,18 @@ Ce travail est une production dérivative réalisée à partir du Lami V2 mis à
 
 Concu pour fonctionner avec le kit d'aspiration V3
 
-<p align="center">
+<p align="left">
   <img src="images/kitAspi1.JPEG" width="50">
   <img src="images/kitAspi2.JPEG" width="50">
   <img src="images/kitAspi3.JPEG" width="50">
 </p>
 
-## Vue de l'assemblage
-<img src="images/vueAssembly.png" alt="Vue de l'assemblage" width="100">
+## Différentes vues du model
+<p align="left">
+  <img src="images/vueAssembly.png" width="100">
+  <img src="images/vueAllParts.png" width="100">
+  <img src="images/vuePartDescriptions.png" width="100">
+</p>
 
-## Vue parts description
+Enfin le modele sketchup est : myLami.skp
 
-<img src="images/vuePartDescriptions.png" width="100">
-
-## Vue All parts
-
-<img src="images/vueAllParts.png" width="100">
