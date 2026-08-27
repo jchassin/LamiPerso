@@ -2,20 +2,20 @@
 Ce travail est une production dérivative réalisée à partir du Lami V2 mis à disposition sous licence https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 Concu pour fonctionner avec le kit d'aspiration V3
-
 <img src="images/produit.JPEG" alt="Vue de l'assemblage" width="100">
-<img src="images/kitAspi1.JPEG" alt="Vue de l'assemblage" width="50">
-<img src="images/kitAspi2.JPEG" alt="Vue de l'assemblage" width="50">
-<img src="images/kitAspi3.JPEG" alt="Vue de l'assemblage" width="50">
+<p align="center">
+  <img src="images/kitAspi1.png" width="50">
+  <img src="images/kitAspi2.png" width="50">
+  <img src="images/kitAspi3.png" width="50">
+</p>
 
 ## Vue de l'assemblage
-
-![Vue de l'assemblage](images/vueAssembly.png)
+<img src="images/vueAssembly.png" alt="Vue de l'assemblage" width="100">
 
 ## Vue parts description
 
-![Plan coté de la pièce 01](images/vuePartDescriptions.png)
+<img src="images/vuePartDescriptions.png" width="100">
 
 ## Vue All parts
 
-![Plan coté de la pièce 01](images/vueAllParts.png)
+<img src="images/vueAllParts.png" width="100">
