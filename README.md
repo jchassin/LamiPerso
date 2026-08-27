@@ -3,8 +3,10 @@ Ce travail est une production dérivative réalisée à partir du Lami V2 mis à
 
 Concu pour fonctionner avec le kit d'aspiration V3
 
-<img src="images/produit.JPEG" alt="Vue de l'assemblage" width="600">
-![Focus kit aspi](images/kitAspi1.JPEG)![Focus kit aspi](images/kitAspi2.JPEG)![Focus kit aspi](images/kitAspi3.JPEG)
+<img src="images/produit.JPEG" alt="Vue de l'assemblage" width="100">
+<img src="images/kitAspi1.JPEG" alt="Vue de l'assemblage" width="50">
+<img src="images/kitAspi2.JPEG" alt="Vue de l'assemblage" width="50">
+<img src="images/kitAspi3.JPEG" alt="Vue de l'assemblage" width="50">
 
 ## Vue de l'assemblage
 
