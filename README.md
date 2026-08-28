@@ -1,5 +1,6 @@
 # LamiPerso
-Ce travail est une production dérivative réalisée à partir du Lami V2 mis à disposition sous licence https://creativecommons.org/licenses/by-nc-sa/4.0/
+Ce travail est une production dérivative réalisée à partir du Lami® V2 mis à disposition sous licence https://creativecommons.org/licenses/by-nc-sa/4.0/
+[Lisezmoi](LISEZMOI.txt)
 
 <img src="images/produit.JPEG" alt="Vue de l'assemblage" width="100">
 
